@@ -1,4 +1,9 @@
-Hello 
-World
-Hi
-My name Is Aomsin.
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World \n");
+    printf("My Name is Aomsin." );
+    
+    return 0;
+}
